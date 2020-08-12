@@ -1,0 +1,3 @@
+- clouds
+- sky
+- rain
