@@ -1,3 +1,3 @@
-clouds
-sky
-rain
+- clouds
+- sky
+- rain
